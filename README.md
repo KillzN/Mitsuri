@@ -1,5 +1,5 @@
 
-### `—◉ 👑 ¡Hola! KillzN-Store?, CONTACTAME 👑`
+### `—◉ 👑 ¡Hola! KillzN?, CONTACTAME 👑`
 <a href="http://wa.me/+56983073328" target="blank"><img src="https://imgur.com/a/killzn-contact-uVTgkUV" /></a>
 > NO BOT
 
@@ -54,14 +54,14 @@ npm start
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd KillznStore
+> cd Killzn
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd KillzNStore
+> cd KillzN
 > rm -rf session.data.json
 > npm start
 ```
@@ -85,7 +85,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PROPIETARIO DEL BOT` 
 `KillzN __________ KillzN?`
 
-![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 <<<<<<< HEAD
 </div>
 =======
