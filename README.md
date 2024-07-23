@@ -1,7 +1,7 @@
 
 ### `—◉ 👑 ¡Hola! KillzN?, CONTACTAME 👑`
 <a href="http://wa.me/+56983073328" target="blank"><img src="https://imgur.com/a/killzn-contact-uVTgkUV" /></a>
-> NO BOT
+> KILL BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
