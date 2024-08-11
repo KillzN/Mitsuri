@@ -4,7 +4,7 @@ try {
 //await m.reply(`╭「➻ALEIZN-MD」\n│➯ *(♦️)*PON EL TEXTO DEL AUDIO QUE QUIERES REPRODUCIR*\n︎╰───────────────╯
 let pp = imagen6
 //let vn = './Plugins/Audios/menu.mp3'
-let img = await(await fetch('https://imgur.com/a/Z2X0lCN.jpg')).buffer()
+let img = await(await fetch('https://i.imgur.com/SlN3jrn.png?1')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
